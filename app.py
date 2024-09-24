@@ -5,6 +5,7 @@ def main():
     pass
 
 
+# This is a single line comment above a function
 def some_function(some_param):
     pass
 
