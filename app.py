@@ -6,6 +6,7 @@ def main():
     pass
 
 
+# trying to cause a merge conflict
 def some_function(some_param):
     pass
 
